@@ -1,10 +1,12 @@
 # Audio Transcriber Web App
-This is a Python-based web app for audio transcription using AssemblyAI and Streamlit.
+This is a Python-based web app for audio transcription using Python, AssemblyAI, and Streamlit.
 
 ## Features
-- Upload audio files for transcription
-- Multilingual support
-- Export results in JSON or CSV formats
+- Audio Upload and Management
+- Speech-to-Text Transcription
+- Multilingual Translation
+- File Export Options
+- User-Friendly Interface
 
 ## Setup Instructions
 1. Install dependencies using `pip install -r requirements.txt`.
