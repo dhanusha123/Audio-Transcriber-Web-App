@@ -10,4 +10,7 @@ This is a Python-based web app for audio transcription using AssemblyAI and Stre
 1. Install dependencies using `pip install -r requirements.txt`.
 2. Run the app with `streamlit run src/app.py`.
 
-## Article on this: Medium: https://medium.com/@dhanusha.viraj/from-concept-to-code-building-a-web-based-audio-transcription-app-880c2c4b7aed
+## Learn More
+Read my detailed Medium article on how I built this project:  
+[Building an Audio Transcriber Web App](https://medium.com/@dhanusha.viraj/from-concept-to-code-building-a-web-based-audio-transcription-app-880c2c4b7aed)
+
